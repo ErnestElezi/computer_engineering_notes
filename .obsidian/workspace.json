@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "6ea865399e7d8102",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d29addc691b02c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58fb1558b2d4112c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DigitalDesign/Teacher Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Teacher Notes"
+            }
+          },
+          {
+            "id": "9abc01b457013c7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DigitalDesign/Teacher Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Teacher Notes"
+            }
+          },
+          {
+            "id": "e5d82b9eb90c494d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DigitalDesign/Teacher Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Teacher Notes"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fec5d63ce53ef43",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccb0e9e5a0dc447a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72425a1e3798b172",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "143cae46793251d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9ab44a6c246abc54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 394.25
+  },
+  "right": {
+    "id": "9a41af9e9f3dc994",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed8d89f1cb37b424",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5344e9b4c7f1c7d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3d7116bbf6a8e0ef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "79d2f308745f4f4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4124eac66e604586",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "5648a4f8e128b6cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e5d82b9eb90c494d",
+  "lastOpenFiles": [
+    "DataBase/Definitions.md",
+    "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
+    "DigitalDesign/Teacher Notes.md",
+    "DigitalDesign/Definitions.md",
+    "DigitalDesign/Daily Notes",
+    "DataBase/Teacher Notes.md",
+    "DataBase/Evaluation.md",
+    "DataBase/Books.md",
+    "DataBase/Daily Notes/05.10.26 First day introduction.md",
+    "SVG Diagrams/DataBaseDiagrams.svg",
+    "Images/ThreeLayerStructure.png",
+    "SVG Diagrams",
+    "DataBase/Daily Notes/Untitled.canvas",
+    "DataBase/Daily Notes",
+    "Images",
+    "README.md",
+    "DigitalDesign",
+    "DataBase"
+  ]
+}

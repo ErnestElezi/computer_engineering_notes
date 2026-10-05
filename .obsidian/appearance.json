@@ -1,0 +1,10 @@
+{
+  "cssTheme": "",
+  "accentColor": "#9069ab",
+  "interfaceFontFamily": "BitstromWera Nerd Font,Adwaita Mono,Adwaita Sans",
+  "textFontFamily": "CaskaydiaMono Nerd Font",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "showRibbon": true
+}

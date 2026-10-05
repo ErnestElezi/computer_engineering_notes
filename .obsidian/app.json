@@ -1,0 +1,13 @@
+{
+  "livePreview": false,
+  "showInlineTitle": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "vimMode": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "tabSize": 2
+}
