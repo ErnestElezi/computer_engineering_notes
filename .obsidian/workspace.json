@@ -41,16 +41,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DigitalDesign/Teacher Notes.md",
+                "file": "DataBase/Daily Notes/05.10.26 First day introduction.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Teacher Notes"
+              "title": "05.10.26 First day introduction"
+            }
+          },
+          {
+            "id": "a762182b2614ab09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "05.10.26 First day introduction"
+            }
+          },
+          {
+            "id": "5f978f00c33e20f8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "SVG Diagrams/DigitalLogicDiagrams.svg"
+              },
+              "icon": "lucide-image",
+              "title": "DigitalLogicDiagrams"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,19 +243,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "e5d82b9eb90c494d",
+  "active": "5f978f00c33e20f8",
   "lastOpenFiles": [
-    "DataBase/Definitions.md",
+    "SVG Diagrams/DataBaseDiagrams.svg",
+    "SVG Diagrams/DigitalLogicDiagrams.svg",
+    "Images/ThreeLayerStructure.png",
+    "Images/DEMUX.png",
+    "Images/RegisterBufferSchema.png",
+    "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
     "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
-    "DigitalDesign/Teacher Notes.md",
+    "DataBase/Daily Notes/06.10.26 Messed up schedule.md",
+    "DataBase/Daily Notes/05.10.26 First day introduction.md",
     "DigitalDesign/Definitions.md",
+    "DigitalDesign/Teacher Notes.md",
+    "DataBase/Definitions.md",
     "DigitalDesign/Daily Notes",
     "DataBase/Teacher Notes.md",
     "DataBase/Evaluation.md",
     "DataBase/Books.md",
-    "DataBase/Daily Notes/05.10.26 First day introduction.md",
-    "SVG Diagrams/DataBaseDiagrams.svg",
-    "Images/ThreeLayerStructure.png",
     "SVG Diagrams",
     "DataBase/Daily Notes/Untitled.canvas",
     "DataBase/Daily Notes",
