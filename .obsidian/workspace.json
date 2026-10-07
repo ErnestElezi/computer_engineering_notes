@@ -8,75 +8,129 @@
         "type": "tabs",
         "children": [
           {
-            "id": "58fb1558b2d4112c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DigitalDesign/Teacher Notes.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Teacher Notes"
-            }
-          },
-          {
-            "id": "9abc01b457013c7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DigitalDesign/Teacher Notes.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Teacher Notes"
-            }
-          },
-          {
-            "id": "e5d82b9eb90c494d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Daily Notes/05.10.26 First day introduction.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "05.10.26 First day introduction"
-            }
-          },
-          {
-            "id": "a762182b2614ab09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "05.10.26 First day introduction"
-            }
-          },
-          {
             "id": "5f978f00c33e20f8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "32dc6a7fbc1fd6b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "file": "SVG Diagrams/DigitalLogicDiagrams.svg"
+                "file": "ObjectOrientedPrograming/Teacher Notes.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "DigitalLogicDiagrams"
+              "icon": "lucide-file",
+              "title": "Teacher Notes"
+            }
+          },
+          {
+            "id": "16b28db0838fdc32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElectrotechnicalInformatics/Teacher Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Teacher Notes"
+            }
+          },
+          {
+            "id": "b74101ed1d022239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElectrotechnicalInformatics/Teacher Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Teacher Notes"
+            }
+          },
+          {
+            "id": "dbb6ed8cc3a829f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ElectrotechnicalInformatics/Daily Notes/07.10.26 No nester.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "07.10.26 No nester"
+            }
+          },
+          {
+            "id": "a2a11dfcbf356ccc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObjectOrientedPrograming/Daily Notes/07.10.26 No nester here either.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "07.10.26 No nester here either"
+            }
+          },
+          {
+            "id": "33f426f9e44ed142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumericalEngineeringMethod/Teacher Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Teacher Notes"
+            }
+          },
+          {
+            "id": "189bb8e797b5183a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumericalEngineeringMethod/Definitions.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Definitions"
+            }
+          },
+          {
+            "id": "1f5c4db97a68d6da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "07.10.26 Nester was not here"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -243,16 +297,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f978f00c33e20f8",
+  "active": "72425a1e3798b172",
   "lastOpenFiles": [
-    "SVG Diagrams/DataBaseDiagrams.svg",
+    "NumericalEngineeringMethod/Definitions.md",
+    "NumericalEngineeringMethod/Teacher Notes.md",
+    "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
+    "ObjectOrientedPrograming/Daily Notes/07.10.26 No nester here either.md",
+    "NumericalEngineeringMethod/Daily Notes",
+    "NumericalEngineeringMethod",
+    "ObjectOrientedPrograming/Definitions.md",
+    "ElectrotechnicalInformatics/Definitions.md",
+    "ElectrotechnicalInformatics/Teacher Notes.md",
+    "ElectrotechnicalInformatics/Daily Notes/07.10.26 No nester.md",
+    "ObjectOrientedPrograming/Teacher Notes.md",
+    "ElectrotechnicalInformatics/Daily Notes",
+    "Electrotechnic",
+    "ElectrotechnicalInformatics",
+    "Daily Notes.md",
+    "ObjectOrientedPrograming/Daily Notes",
+    "ObjectOrientedPrograming",
+    "DataBase/Daily Notes/06.10.26 Messed up schedule.md",
     "SVG Diagrams/DigitalLogicDiagrams.svg",
-    "Images/ThreeLayerStructure.png",
-    "Images/DEMUX.png",
-    "Images/RegisterBufferSchema.png",
+    "SVG Diagrams/DataBaseDiagrams.svg",
+    "Renders/ThreeLayerStructure.png",
+    "Renders/DEMUX.png",
+    "Renders/RegisterBufferSchema.png",
     "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
     "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
-    "DataBase/Daily Notes/06.10.26 Messed up schedule.md",
     "DataBase/Daily Notes/05.10.26 First day introduction.md",
     "DigitalDesign/Definitions.md",
     "DigitalDesign/Teacher Notes.md",
@@ -264,9 +335,6 @@
     "SVG Diagrams",
     "DataBase/Daily Notes/Untitled.canvas",
     "DataBase/Daily Notes",
-    "Images",
-    "README.md",
-    "DigitalDesign",
-    "DataBase"
+    "README.md"
   ]
 }
