@@ -6,16 +6,40 @@
       {
         "id": "b1d29addc691b02c",
         "type": "tabs",
+        "dimension": 61.00159829515184,
         "children": [
           {
-            "id": "1f5c4db97a68d6da",
+            "id": "20f9cee1851cc03a",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
+            },
+            "group": "d68d7249e537a1c3"
+          }
+        ]
+      },
+      {
+        "id": "78b7773da38c79af",
+        "type": "tabs",
+        "dimension": 38.99840170484816,
+        "children": [
+          {
+            "id": "97299f774058c96e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "07.10.26 Nester was not here"
+            },
+            "group": "d68d7249e537a1c3"
           }
         ]
       }
@@ -79,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.25
+    "width": 394.25,
+    "collapsed": true
   },
   "right": {
     "id": "9a41af9e9f3dc994",
@@ -184,19 +209,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "72425a1e3798b172",
+  "active": "20f9cee1851cc03a",
   "lastOpenFiles": [
-    "DataBase/Daily Notes/08.10.26 More concepts.md",
     "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
+    "NumericalEngineeringMethod/Calendar.md",
     "NumericalEngineeringMethod/Definitions.md",
     "NumericalEngineeringMethod/Teacher Notes.md",
+    "ElectrotechnicalInformatics/Daily Notes/07.10.26 No nester.md",
+    "ElectrotechnicalInformatics/Definitions.md",
+    "ElectrotechnicalInformatics/Teacher Notes.md",
+    "README.md",
+    "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
+    "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
+    "DataBase/Daily Notes/08.10.26 More concepts.md",
     "ObjectOrientedPrograming/Daily Notes/07.10.26 No nester here either.md",
     "NumericalEngineeringMethod/Daily Notes",
     "NumericalEngineeringMethod",
     "ObjectOrientedPrograming/Definitions.md",
-    "ElectrotechnicalInformatics/Definitions.md",
-    "ElectrotechnicalInformatics/Teacher Notes.md",
-    "ElectrotechnicalInformatics/Daily Notes/07.10.26 No nester.md",
     "ObjectOrientedPrograming/Teacher Notes.md",
     "ElectrotechnicalInformatics/Daily Notes",
     "Electrotechnic",
@@ -210,8 +239,6 @@
     "Renders/ThreeLayerStructure.png",
     "Renders/DEMUX.png",
     "Renders/RegisterBufferSchema.png",
-    "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
-    "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
     "DataBase/Daily Notes/05.10.26 First day introduction.md",
     "DigitalDesign/Definitions.md",
     "DigitalDesign/Teacher Notes.md",
@@ -222,7 +249,6 @@
     "DataBase/Books.md",
     "SVG Diagrams",
     "DataBase/Daily Notes/Untitled.canvas",
-    "DataBase/Daily Notes",
-    "README.md"
+    "DataBase/Daily Notes"
   ]
 }

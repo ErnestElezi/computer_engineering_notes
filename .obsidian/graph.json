@@ -5,41 +5,41 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"DigitalDesign\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 12713984
       }
     },
     {
       "query": "path:DataBase  ",
       "color": {
         "a": 1,
-        "rgb": 4842751
+        "rgb": 15024
       }
     },
     {
       "query": "path:ElectrotechnicalInformatics  ",
       "color": {
         "a": 1,
-        "rgb": 14715730
+        "rgb": 16743698
       }
     },
     {
       "query": "path:NumericalEngineeringMethod  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 2279743
       }
     },
     {
       "query": "path:ObjectOrientedPrograming  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 4842751
       }
     }
   ],
