@@ -4,44 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cf31f86ee4e3038c",
+        "id": "01430c6b175178d0",
         "type": "tabs",
         "children": [
           {
-            "id": "0d66e8f046556b29",
+            "id": "7be34203a2c6db73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DigitalDesign/Teacher Notes.md",
+                "file": "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Teacher Notes"
-            },
-            "group": "5c9ec1387de9735f"
-          }
-        ]
-      },
-      {
-        "id": "2c9530e0db19bb18",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0cb05d9894cb543e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DigitalDesign/Teacher Notes.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Teacher Notes"
-            },
-            "group": "5c9ec1387de9735f"
+              "title": "06.10.26 Some stuff about digital logic components and concepts"
+            }
           }
         ]
       }
@@ -191,8 +169,21 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "82286b59a6ce034e",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,29 +201,78 @@
       "bases:Create new base": false
     }
   },
-  "active": "0d66e8f046556b29",
+  "floating": {
+    "id": "824c2731a7e9b67d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9bc8d9f0a22a4051",
+        "type": "window",
+        "children": [
+          {
+            "id": "96a2d97b75f2cd69",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "20557175f5d02233",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "06.10.26 Some stuff about digital logic components and concepts"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 140,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "7be34203a2c6db73",
   "lastOpenFiles": [
-    "SVG Diagrams/Orari.svg",
-    "DataBase/Daily Notes/08.10.26 Compensation for Tuesday.md",
-    "DataBase/Daily Notes/06.10.26 Messed up schedule.md",
-    "DataBase/Daily Notes/05.10.26 First day introduction.md",
-    "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
     "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
-    "DataBase/SVG_Schemas/ThreeLayerProgramStructure.svg",
-    "DataBase/SVG_Schemas/ThreeLayerProgramStructure.svg",
+    "DataBase/Daily Notes/08.10.26 Compensation for Tuesday.md",
+    "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
+    "DigitalDesign/SVG_Schemas/DEMUX.svg",
+    "DigitalDesign/SVG_Schemas/RegistersAndBuffers.svg",
+    "DigitalDesign/SVG_Schemas",
+    "DataBase/Daily Notes/05.10.26 First day introduction.md",
+    "SVG Diagrams/DigitalLogicDiagrams.svg",
+    "DataBase/Definitions.md",
+    "DataBase/SVG_Schemas/KeyProperty.svg",
+    "DataBase/SVG_Schemas/Properties.svg",
+    "DataBase/SVG_Schemas/CardinalityAndConstraints.svg",
+    "DataBase/SVG_Schemas/MultipleRelations.svg",
+    "DataBase/SVG_Schemas/RelationProperties.svg",
+    "DataBase/SVG_Schemas/Relation.svg",
+    "DataBase/SVG_Schemas/Entity.svg",
+    "DataBase/Slides",
+    "DataBase/Daily Notes/06.10.26 Messed up schedule.md",
+    "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
+    "ElectrotechnicalInformatics/Daily Notes/07.10.26 No nester.md",
+    "DigitalDesign/Teacher Notes.md",
     "README.md",
     "DataBase/Teacher Notes.md",
     "DataBase/SVG_Schemas",
     "DataBase/SVG Schemas",
     "DataBase/Evaluation.md",
-    "DataBase/Definitions.md",
     "DataBase/Books.md",
     "DigitalDesign/Definitions.md",
-    "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
     "NumericalEngineeringMethod/Calendar.md",
     "NumericalEngineeringMethod/Definitions.md",
     "NumericalEngineeringMethod/Teacher Notes.md",
-    "ElectrotechnicalInformatics/Daily Notes/07.10.26 No nester.md",
     "ElectrotechnicalInformatics/Definitions.md",
     "ElectrotechnicalInformatics/Teacher Notes.md",
     "ObjectOrientedPrograming/Daily Notes/07.10.26 No nester here either.md",
@@ -245,14 +285,6 @@
     "ElectrotechnicalInformatics",
     "Daily Notes.md",
     "ObjectOrientedPrograming/Daily Notes",
-    "ObjectOrientedPrograming",
-    "SVG Diagrams/DigitalLogicDiagrams.svg",
-    "SVG Diagrams/DataBaseDiagrams.svg",
-    "Renders/ThreeLayerStructure.png",
-    "Renders/DEMUX.png",
-    "Renders/RegisterBufferSchema.png",
-    "DigitalDesign/Teacher Notes.md",
-    "DigitalDesign/Daily Notes",
     "DataBase/Daily Notes/Untitled.canvas"
   ]
 }

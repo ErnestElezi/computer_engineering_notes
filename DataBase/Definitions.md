@@ -1,3 +1,7 @@
+---
+alias: DB
+---
+
 # Data
 ==_Specific information_==
 Any information that has importance or meaning.
@@ -57,3 +61,7 @@ Part of [[#SQL]] language that manages modification of records, tables and relat
 
 # GFS
 ==_Google File System_==
+
+# Record
+==_Also known as a Tuple_==
+Represents an instance of an [[#Entities|Entity]] or [[#Relationships|Relationship]].
