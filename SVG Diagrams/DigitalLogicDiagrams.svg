@@ -33,7 +33,8 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00">
     <inkscape:grid
        type="modular"
        id="grid1"
@@ -874,7 +875,10 @@
      id="layer1">
     <g
        id="g5"
-       transform="translate(3.2362205e-6,-45.109696)">
+       transform="translate(3.2362205e-6,-45.109696)"
+       inkscape:export-filename="../DigitalDesign/SVG_Schemas/RegistersAndBuffers.svg"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
       <rect
          style="fill:url(#linearGradient5);stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
          id="rect4"
@@ -1346,7 +1350,10 @@
       </g>
     </g>
     <g
-       id="g6">
+       id="g6"
+       inkscape:export-filename="../DigitalDesign/SVG_Schemas/DEMUX.svg"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150">
       <rect
          style="fill:url(#linearGradient6);stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
          id="rect4-7"
