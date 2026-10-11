@@ -4,42 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "b1d29addc691b02c",
+        "id": "cf31f86ee4e3038c",
         "type": "tabs",
-        "dimension": 61.00159829515184,
         "children": [
           {
-            "id": "20f9cee1851cc03a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "d68d7249e537a1c3"
-          }
-        ]
-      },
-      {
-        "id": "78b7773da38c79af",
-        "type": "tabs",
-        "dimension": 38.99840170484816,
-        "children": [
-          {
-            "id": "97299f774058c96e",
+            "id": "0d66e8f046556b29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
+                "file": "DigitalDesign/Teacher Notes.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Teacher Notes"
+            },
+            "group": "5c9ec1387de9735f"
+          }
+        ]
+      },
+      {
+        "id": "2c9530e0db19bb18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cb05d9894cb543e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DigitalDesign/Teacher Notes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07.10.26 Nester was not here"
+              "title": "Teacher Notes"
             },
-            "group": "d68d7249e537a1c3"
+            "group": "5c9ec1387de9735f"
           }
         ]
       }
@@ -103,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.25,
-    "collapsed": true
+    "width": 352.75
   },
   "right": {
     "id": "9a41af9e9f3dc994",
@@ -209,8 +210,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "20f9cee1851cc03a",
+  "active": "0d66e8f046556b29",
   "lastOpenFiles": [
+    "SVG Diagrams/Orari.svg",
+    "DataBase/Daily Notes/08.10.26 Compensation for Tuesday.md",
+    "DataBase/Daily Notes/06.10.26 Messed up schedule.md",
+    "DataBase/Daily Notes/05.10.26 First day introduction.md",
+    "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
+    "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
+    "DataBase/SVG_Schemas/ThreeLayerProgramStructure.svg",
+    "DataBase/SVG_Schemas/ThreeLayerProgramStructure.svg",
+    "README.md",
+    "DataBase/Teacher Notes.md",
+    "DataBase/SVG_Schemas",
+    "DataBase/SVG Schemas",
+    "DataBase/Evaluation.md",
+    "DataBase/Definitions.md",
+    "DataBase/Books.md",
+    "DigitalDesign/Definitions.md",
     "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
     "NumericalEngineeringMethod/Calendar.md",
     "NumericalEngineeringMethod/Definitions.md",
@@ -218,10 +235,6 @@
     "ElectrotechnicalInformatics/Daily Notes/07.10.26 No nester.md",
     "ElectrotechnicalInformatics/Definitions.md",
     "ElectrotechnicalInformatics/Teacher Notes.md",
-    "README.md",
-    "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
-    "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
-    "DataBase/Daily Notes/08.10.26 More concepts.md",
     "ObjectOrientedPrograming/Daily Notes/07.10.26 No nester here either.md",
     "NumericalEngineeringMethod/Daily Notes",
     "NumericalEngineeringMethod",
@@ -233,22 +246,13 @@
     "Daily Notes.md",
     "ObjectOrientedPrograming/Daily Notes",
     "ObjectOrientedPrograming",
-    "DataBase/Daily Notes/06.10.26 Messed up schedule.md",
     "SVG Diagrams/DigitalLogicDiagrams.svg",
     "SVG Diagrams/DataBaseDiagrams.svg",
     "Renders/ThreeLayerStructure.png",
     "Renders/DEMUX.png",
     "Renders/RegisterBufferSchema.png",
-    "DataBase/Daily Notes/05.10.26 First day introduction.md",
-    "DigitalDesign/Definitions.md",
     "DigitalDesign/Teacher Notes.md",
-    "DataBase/Definitions.md",
     "DigitalDesign/Daily Notes",
-    "DataBase/Teacher Notes.md",
-    "DataBase/Evaluation.md",
-    "DataBase/Books.md",
-    "SVG Diagrams",
-    "DataBase/Daily Notes/Untitled.canvas",
-    "DataBase/Daily Notes"
+    "DataBase/Daily Notes/Untitled.canvas"
   ]
 }
