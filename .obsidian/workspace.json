@@ -4,40 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e9bc16de848cc38b",
+        "id": "747f3f4758cad92d",
         "type": "tabs",
         "children": [
           {
-            "id": "ed41a89f2b63d976",
+            "id": "7f41a9b43cd23273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NumericalEngineeringMethod/Daily Notes/26.10.07 Nester was not here.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "26.10.07 Nester was not here"
-            }
-          },
-          {
-            "id": "8e2604bc6fdd8079",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NumericalEngineeringMethod/Daily Notes/26.10.09 Very few people.md",
+                "file": "ElectrotechnicalInformatics/Definitions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "26.10.09 Very few people"
-            },
-            "group": "2dcd5d529601ec5d"
+              "title": "Definitions"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,21 +169,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "82286b59a6ce034e",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "NumericalEngineeringMethod/Daily Notes/26.10.09 Very few people.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,107 +188,53 @@
       "bases:Create new base": false
     }
   },
-  "floating": {
-    "id": "824c2731a7e9b67d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "36b18dff049dd5e8",
-        "type": "window",
-        "children": [
-          {
-            "id": "e27af70b88e6eb72",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7be34203a2c6db73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "ElectrotechnicalInformatics/Daily Notes/26.10.09 Just looking at TinkerCAD.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "26.10.09 Just looking at TinkerCAD"
-                }
-              },
-              {
-                "id": "18d02b4f9931d7f9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "NumericalEngineeringMethod/Daily Notes/26.10.09 Very few people.md",
-                    "mode": "preview",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "26.10.09 Very few people"
-                },
-                "group": "2dcd5d529601ec5d"
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 203,
-        "y": 28,
-        "width": 1514,
-        "height": 1024,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8e2604bc6fdd8079",
+  "active": "7f41a9b43cd23273",
   "lastOpenFiles": [
-    "ObjectOrientedPrograming/Daily Notes/26.10.07 No nester here either.md",
-    "ObjectOrientedPrograming/Definitions.md",
-    "NumericalEngineeringMethod/Daily Notes/26.10.09 Very few people.md",
     "ElectrotechnicalInformatics/Daily Notes/26.10.09 Just looking at TinkerCAD.md",
-    "NumericalEngineeringMethod/Daily Notes/26.10.07 Nester was not here.md",
-    "SVG Diagrams/Orari.svg",
     "ElectrotechnicalInformatics/Daily Notes/26.10.07 No nester.md",
-    "DataBase/Daily Notes/26.10.08 Compensation for Tuesday.md",
-    "DataBase/Daily Notes/26.10.06 Messed up schedule.md",
-    "DataBase/Daily Notes/26.10.05 First day introduction.md",
+    "DigitalDesign/Teacher Notes.md",
+    "DigitalDesign/Definitions.md",
+    "DigitalDesign/SVG_Schemas/RegistersAndBuffers.svg",
+    "DigitalDesign/SVG_Schemas/DEMUX.svg",
     "DigitalDesign/Daily Notes/26.10.06 Some stuff about digital logic components and concepts.md",
     "DigitalDesign/Daily Notes/26.10.05 First day introduction.md",
-    "DigitalDesign/SVG_Schemas/DEMUX.svg",
-    "DigitalDesign/SVG_Schemas/RegistersAndBuffers.svg",
-    "DigitalDesign/SVG_Schemas",
-    "SVG Diagrams/DigitalLogicDiagrams.svg",
-    "DataBase/Definitions.md",
-    "DataBase/SVG_Schemas/KeyProperty.svg",
-    "DataBase/SVG_Schemas/Properties.svg",
-    "DataBase/SVG_Schemas/CardinalityAndConstraints.svg",
-    "DataBase/SVG_Schemas/MultipleRelations.svg",
-    "DataBase/SVG_Schemas/RelationProperties.svg",
-    "DataBase/SVG_Schemas/Relation.svg",
-    "DataBase/Slides",
-    "DigitalDesign/Teacher Notes.md",
-    "README.md",
+    "NumericalEngineeringMethod/Daily Notes/26.10.09 Very few people.md",
+    "NumericalEngineeringMethod/Daily Notes/26.10.07 Nester was not here.md",
     "DataBase/Teacher Notes.md",
-    "DataBase/SVG_Schemas",
-    "DataBase/SVG Schemas",
     "DataBase/Evaluation.md",
     "DataBase/Books.md",
-    "DigitalDesign/Definitions.md",
-    "NumericalEngineeringMethod/Calendar.md",
-    "NumericalEngineeringMethod/Definitions.md",
+    "DataBase/Definitions.md",
+    "DataBase/Daily Notes/26.10.08 Compensation for Tuesday.md",
+    "ElectrotechnicalInformatics/Daily Notes/07.10.26 No nester.md",
+    "NumericalEngineeringMethod/Daily Notes/07.10.26 Nester was not here.md",
     "NumericalEngineeringMethod/Teacher Notes.md",
-    "ElectrotechnicalInformatics/Definitions.md",
-    "ElectrotechnicalInformatics/Teacher Notes.md",
+    "Renders/ThreeLayerStructure.png",
+    "Renders/RegisterBufferSchema.png",
+    "Renders/DEMUX.png",
+    "Renders",
+    "ObjectOrientedPrograming/Daily Notes/07.10.26 No nester here either.md",
+    "DigitalDesign/Daily Notes/06.10.26 Some stuff about digital logic components and concepts.md",
+    "DigitalDesign/Daily Notes/05.10.26 First day introduction.md",
+    "DataBase/Daily Notes/08.10.26 Compensation for Tuesday.md",
+    "DataBase/Daily Notes/06.10.26 Messed up schedule.md",
+    "DataBase/Daily Notes/05.10.26 First day introduction.md",
+    "DigitalDesign/SVG_Schemas",
+    "DataBase/SVG_Schemas/Properties.svg",
+    "DataBase/SVG_Schemas/MultipleRelations.svg",
+    "DataBase/SVG_Schemas/KeyProperty.svg",
+    "DataBase/SVG_Schemas/Entity.svg",
+    "DataBase/SVG_Schemas/CardinalityAndConstraints.svg",
+    "DataBase/Daily Notes/26.10.06 Messed up schedule.md",
+    "DataBase/Daily Notes/26.10.05 First day introduction.md",
+    "NumericalEngineeringMethod/Definitions.md",
+    "NumericalEngineeringMethod/Calendar.md",
+    "DataBase/SVG_Schemas",
+    "DataBase/SVG Schemas",
     "NumericalEngineeringMethod/Daily Notes",
     "NumericalEngineeringMethod",
-    "ObjectOrientedPrograming/Teacher Notes.md",
     "ElectrotechnicalInformatics/Daily Notes",
     "Electrotechnic",
     "ElectrotechnicalInformatics",
-    "Daily Notes.md",
     "ObjectOrientedPrograming/Daily Notes",
     "DataBase/Daily Notes/Untitled.canvas"
   ]
