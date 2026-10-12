@@ -1,7 +1,3 @@
----
-alias: DB
----
-
 # Data
 ==_Specific information_==
 Any information that has importance or meaning.
