@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="359.99994"
+   height="360"
+   viewBox="0 0 95.249981 95.25"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="DigitalLogicDiagrams.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#000000"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#141414"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="0.72831998"
+     inkscape:cx="134.55624"
+     inkscape:cy="243.71156"
+     inkscape:window-width="1918"
+     inkscape:window-height="1078"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00">
+    <inkscape:grid
+       type="modular"
+       id="grid1"
+       units="px"
+       originx="-215.5"
+       originy="-110.25"
+       spacingx="95.249999"
+       spacingy="95.249999"
+       empcolor="#0047cb"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="0"
+       marginx="0"
+       marginy="0"
+       gapx="9.9999997"
+       gapy="10"
+       enabled="true"
+       visible="true" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="95.249985"
+       height="95.25"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#031e30;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#00040a;stop-opacity:1;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient15"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.47506235,0,0,1,213.12471,105.25)"
+       x1="105.25"
+       y1="-47.625"
+       x2="105.25"
+       y2="152.875" />
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-4-3-1-8-0-9-7-4-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-94-0-3-9-3-6-5-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-4-3-1-8-0-9-7-46"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-94-0-3-9-3-6-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-4-3-1-8-0-9-7-43-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-94-0-3-9-3-6-0-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="RoundedArrow-4-3-1-8-0-9-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="m -0.21114562,-4.1055728 6.42229122,3.21114561 a 1,1 90 0 1 0,1.78885438 L -0.21114562,4.1055728 A 1.236068,1.236068 31.717474 0 1 -2,3 v -6 a 1.236068,1.236068 148.28253 0 1 1.78885438,-1.1055728 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path8-7-94-0-3-9-3-7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-215.5,-110.25)">
+    <rect
+       style="fill:url(#linearGradient15);stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       id="rect4-7-6-2-9"
+       width="95.25"
+       height="95.25"
+       x="215.5"
+       y="110.25"
+       rx="5.2916665"
+       ry="5.2916665" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#22c93f;stroke-width:0.529166;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-4-3-1-8-0-9-8)"
+       d="m 298.06192,159.44411 h 10.18261"
+       id="path2-5-8-2-8-2-6-8" />
+    <g
+       id="g24"
+       transform="translate(2.8838348)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#22c93f;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 266.00883,144.59771 8.00864,0.12937"
+         id="path23" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#22c93f;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 266.00883,155.2575 8.00864,0.12937"
+         id="path23-5" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#22c93f;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 266.00883,165.52649 8.00864,0.12937"
+         id="path23-2" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#22c93f;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 266.00883,175.59624 8.00864,0.12937"
+         id="path23-8" />
+    </g>
+    <g
+       id="g23"
+       transform="translate(2.52839,14.805384)">
+      <g
+         id="g22"
+         transform="translate(-19.831399,-21.515197)">
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-0"
+           width="5.7676644"
+           height="5.2349954"
+           x="240.05434"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-4"
+           width="5.7676644"
+           height="5.2349954"
+           x="245.82201"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-6-8"
+           width="5.7676644"
+           height="5.2349954"
+           x="251.58968"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-2-7"
+           width="5.7676644"
+           height="5.2349954"
+           x="257.35733"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-9-17"
+           width="5.7676644"
+           height="5.2349954"
+           x="263.125"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-20-27"
+           width="5.7676644"
+           height="5.2349954"
+           x="268.89267"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-6-2-2"
+           width="5.7676644"
+           height="5.2349954"
+           x="274.66034"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-2-3-2"
+           width="5.7676644"
+           height="5.2349954"
+           x="280.42801"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.94183px;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="230.97119"
+           y="161.17281"
+           id="text15"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan15"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';stroke-width:1.32292"
+             x="230.97119"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="236.14362"
+           y="161.17281"
+           id="text16"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan16"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="236.14362"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="241.92387"
+           y="161.17281"
+           id="text17"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan17"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="241.92387"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="247.40021"
+           y="161.17281"
+           id="text18"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan18"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="247.40021"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="252.87656"
+           y="161.17281"
+           id="text19"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan19"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="252.87656"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="258.04898"
+           y="161.17281"
+           id="text20"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan20"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="258.04898"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="263.5253"
+           y="161.17281"
+           id="text21"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan21"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="263.5253"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="269.30557"
+           y="161.17281"
+           id="text22"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan22"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="269.30557"
+             y="161.17281">1</tspan></text>
+      </g>
+      <g
+         id="g22-5"
+         transform="translate(-19.831399,-10.855402)">
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-0-6"
+           width="5.7676644"
+           height="5.2349954"
+           x="240.05434"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-4-1"
+           width="5.7676644"
+           height="5.2349954"
+           x="245.82201"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-6-8-1"
+           width="5.7676644"
+           height="5.2349954"
+           x="251.58968"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-2-7-5"
+           width="5.7676644"
+           height="5.2349954"
+           x="257.35733"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-9-17-9"
+           width="5.7676644"
+           height="5.2349954"
+           x="263.125"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-20-27-8"
+           width="5.7676644"
+           height="5.2349954"
+           x="268.89267"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-6-2-2-4"
+           width="5.7676644"
+           height="5.2349954"
+           x="274.66034"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-2-3-2-8"
+           width="5.7676644"
+           height="5.2349954"
+           x="280.42801"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.94183px;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="230.97119"
+           y="161.17281"
+           id="text15-1"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan15-0"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';stroke-width:1.32292"
+             x="230.97119"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="236.14362"
+           y="161.17281"
+           id="text16-3"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan16-0"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="236.14362"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="241.92387"
+           y="161.17281"
+           id="text17-4"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan17-4"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="241.92387"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="247.40021"
+           y="161.17281"
+           id="text18-4"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan18-4"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="247.40021"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="252.87656"
+           y="161.17281"
+           id="text19-7"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan19-6"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="252.87656"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="258.04898"
+           y="161.17281"
+           id="text20-3"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan20-1"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="258.04898"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="263.5253"
+           y="161.17281"
+           id="text21-7"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan21-5"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="263.5253"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="269.30557"
+           y="161.17281"
+           id="text22-9"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan22-6"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="269.30557"
+             y="161.17281">1</tspan></text>
+      </g>
+      <g
+         id="g22-5-5"
+         transform="translate(-19.831399,-0.58640897)">
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-0-6-7"
+           width="5.7676644"
+           height="5.2349954"
+           x="240.05434"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-4-1-4"
+           width="5.7676644"
+           height="5.2349954"
+           x="245.82201"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-6-8-1-1"
+           width="5.7676644"
+           height="5.2349954"
+           x="251.58968"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-2-7-5-8"
+           width="5.7676644"
+           height="5.2349954"
+           x="257.35733"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-9-17-9-5"
+           width="5.7676644"
+           height="5.2349954"
+           x="263.125"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-20-27-8-9"
+           width="5.7676644"
+           height="5.2349954"
+           x="268.89267"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-6-2-2-4-7"
+           width="5.7676644"
+           height="5.2349954"
+           x="274.66034"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-2-3-2-8-5"
+           width="5.7676644"
+           height="5.2349954"
+           x="280.42801"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.94183px;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="230.97119"
+           y="161.17281"
+           id="text15-1-3"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan15-0-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';stroke-width:1.32292"
+             x="230.97119"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="236.14362"
+           y="161.17281"
+           id="text16-3-8"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan16-0-3"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="236.14362"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="241.92387"
+           y="161.17281"
+           id="text17-4-1"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan17-4-8"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="241.92387"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="247.40021"
+           y="161.17281"
+           id="text18-4-9"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan18-4-6"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="247.40021"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="252.87656"
+           y="161.17281"
+           id="text19-7-4"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan19-6-3"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="252.87656"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="258.04898"
+           y="161.17281"
+           id="text20-3-3"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan20-1-3"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="258.04898"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="263.5253"
+           y="161.17281"
+           id="text21-7-8"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan21-5-6"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="263.5253"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="269.30557"
+           y="161.17281"
+           id="text22-9-0"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan22-6-4"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="269.30557"
+             y="161.17281">1</tspan></text>
+      </g>
+      <g
+         id="g22-5-7"
+         transform="translate(-19.831399,9.4833344)">
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-0-6-76"
+           width="5.7676644"
+           height="5.2349954"
+           x="240.05434"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-4-1-43"
+           width="5.7676644"
+           height="5.2349954"
+           x="245.82201"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-6-8-1-0"
+           width="5.7676644"
+           height="5.2349954"
+           x="251.58968"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-2-7-5-3"
+           width="5.7676644"
+           height="5.2349954"
+           x="257.35733"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-9-17-9-0"
+           width="5.7676644"
+           height="5.2349954"
+           x="263.125"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-20-27-8-92"
+           width="5.7676644"
+           height="5.2349954"
+           x="268.89267"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-6-2-2-4-5"
+           width="5.7676644"
+           height="5.2349954"
+           x="274.66034"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#003ab0;fill-opacity:1;stroke:#49e4ff;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1-2-2-3-2-8-4"
+           width="5.7676644"
+           height="5.2349954"
+           x="280.42801"
+           y="148.69002"
+           rx="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           style="font-size:4.94183px;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="230.97119"
+           y="161.17281"
+           id="text15-1-0"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan15-0-5"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';stroke-width:1.32292"
+             x="230.97119"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="236.14362"
+           y="161.17281"
+           id="text16-3-9"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan16-0-4"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="236.14362"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="241.92387"
+           y="161.17281"
+           id="text17-4-6"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan17-4-9"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="241.92387"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="247.40021"
+           y="161.17281"
+           id="text18-4-2"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan18-4-2"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="247.40021"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="252.87656"
+           y="161.17281"
+           id="text19-7-47"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan19-6-7"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="252.87656"
+             y="161.17281">1</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="258.04898"
+           y="161.17281"
+           id="text20-3-5"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan20-1-4"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="258.04898"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="263.5253"
+           y="161.17281"
+           id="text21-7-81"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan21-5-2"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="263.5253"
+             y="161.17281">0</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.94183px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           x="269.30557"
+           y="161.17281"
+           id="text22-9-8"
+           transform="scale(1.0531974,0.94948962)"><tspan
+             sodipodi:role="line"
+             id="tspan22-6-9"
+             style="font-size:4.94183px;stroke-width:1.32292"
+             x="269.30557"
+             y="161.17281">1</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g25"
+       transform="translate(2.8838348)">
+      <path
+         style="fill:#690000;fill-opacity:1;stroke:#c20000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         d="m 274.01746,132.61112 v 54.97168 l 27.19886,-13.88641 v -27.19886 z"
+         id="path1-1"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:6.61458px;font-family:'JetBrainsMono Nerd Font Mono';-inkscape-font-specification:'JetBrainsMono Nerd Font Mono';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+         x="281.55792"
+         y="162.47823"
+         id="text14-0"><tspan
+           sodipodi:role="line"
+           id="tspan14-5"
+           style="font-size:6.61458px;stroke-width:1.32292"
+           x="281.55792"
+           y="162.47823">MUX</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#22c93f;stroke-width:0.529166;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-4-3-1-8-0-9-7-46)"
+       d="M 291.15148,124.83888 V 137.3488"
+       id="path2-5-8-2-8-2-6-9-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#22c93f;stroke-width:0.529166;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-4-3-1-8-0-9-7-4-0)"
+       d="m 297.20479,124.83888 v 15.25593"
+       id="path2-5-8-2-8-2-6-9-4-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#22c93f;stroke-width:0.529166;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#RoundedArrow-4-3-1-8-0-9-7-43-6)"
+       d="m 285.09818,124.83888 v 9.21932"
+       id="path2-5-8-2-8-2-6-9-6-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="215.55139"
+       y="146.5424"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan23"
+         style="font-size:5.29167px;fill:#ffffff;stroke:none;stroke-width:0.529167"
+         x="215.55139"
+         y="146.5424">R0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="284.75952"
+       y="123.2588"
+       id="text23-9"><tspan
+         sodipodi:role="line"
+         id="tspan23-60"
+         style="font-size:3.96875px;fill:#ffffff;stroke:none;stroke-width:0.529167"
+         x="284.75952"
+         y="123.2588">S0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="290.81281"
+       y="123.2588"
+       id="text23-32"><tspan
+         sodipodi:role="line"
+         id="tspan23-15"
+         style="font-size:3.96875px;fill:#ffffff;stroke:none;stroke-width:0.529167"
+         x="290.81281"
+         y="123.2588">S1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.96875px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="296.86612"
+       y="123.2588"
+       id="text23-91"><tspan
+         sodipodi:role="line"
+         id="tspan23-0"
+         style="font-size:3.96875px;fill:#ffffff;stroke:none;stroke-width:0.529167"
+         x="296.86612"
+         y="123.2588">S2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="215.55139"
+       y="167.2066"
+       id="text23-8"><tspan
+         sodipodi:role="line"
+         id="tspan23-1"
+         style="font-size:5.29167px;fill:#ffffff;stroke:none;stroke-width:0.529167"
+         x="215.55139"
+         y="167.2066">R2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="215.55139"
+       y="177.54092"
+       id="text23-3"><tspan
+         sodipodi:role="line"
+         id="tspan23-4"
+         style="font-size:5.29167px;fill:#ffffff;stroke:none;stroke-width:0.529167"
+         x="215.55139"
+         y="177.54092">R3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Iosevka Nerd Font';-inkscape-font-specification:'Iosevka Nerd Font';writing-mode:lr-tb;direction:ltr;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       x="215.55139"
+       y="157.20219"
+       id="text23-0"><tspan
+         sodipodi:role="line"
+         id="tspan23-6"
+         style="font-size:5.29167px;fill:#ffffff;stroke:none;stroke-width:0.529167"
+         x="215.55139"
+         y="157.20219">R1</tspan></text>
+  </g>
+</svg>
