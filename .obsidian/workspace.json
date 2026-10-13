@@ -4,39 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9f13ff933f6c39e3",
+        "id": "c2ceb7a5dfeba406",
         "type": "tabs",
         "children": [
           {
-            "id": "e5285b6dc144ed71",
+            "id": "46c4c8d7d81f0868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ObjectOrientedPrograming/Daily Notes/26.10.07 No nester here either.md",
+                "file": "ElectrotechnicalInformatics/Daily Notes/26.10.07 No nester.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "26.10.07 No nester here either"
-            }
-          },
-          {
-            "id": "71db9a6982552386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataBase/Daily Notes/26.10.08 Compensation for Tuesday.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "26.10.08 Compensation for Tuesday"
-            }
+              "title": "26.10.07 No nester"
+            },
+            "group": "0b3d2c1d44475f04"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,51 +202,90 @@
       "bases:Create new base": false
     }
   },
-  "active": "71db9a6982552386",
+  "floating": {
+    "id": "9cfa0cde88c656e8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f0b8081412a70377",
+        "type": "window",
+        "children": [
+          {
+            "id": "8337954d2c7d7024",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c9cb78e719977e24",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ElectrotechnicalInformatics/Daily Notes/26.10.07 No nester.md",
+                    "mode": "preview",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "26.10.07 No nester"
+                },
+                "group": "0b3d2c1d44475f04"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 140,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "46c4c8d7d81f0868",
   "lastOpenFiles": [
-    "DataBase/Daily Notes/26.10.06 Messed up schedule.md",
-    "DataBase/Daily Notes/26.10.08 Compensation for Tuesday.md",
+    "DigitalDesign/Daily Notes/26.10.12 Blloqe llogjike.md",
+    "DigitalDesign/SVG_Schemas/COMP.svg",
+    "DigitalDesign/SVG_Schemas/MUX_Serial_Registers.svg",
+    "DigitalDesign/SVG_Schemas/MUX.svg",
+    "ElectrotechnicalInformatics/Daily Notes/26.10.07 No nester.md",
     "ObjectOrientedPrograming/Daily Notes/26.10.09 Literally 4 people in class.md",
     "ObjectOrientedPrograming/Daily Notes/26.10.07 No nester here either.md",
-    "ObjectOrientedPrograming/Definitions.md",
-    "NumericalEngineeringMethod/Definitions.md",
     "NumericalEngineeringMethod/Daily Notes/26.10.09 Very few people.md",
     "NumericalEngineeringMethod/Daily Notes/26.10.07 Nester was not here.md",
-    "NumericalEngineeringMethod/Calendar.md",
-    "DataBase/Definitions.md",
-    "NumericalEngineeringMethod/Gabimi Absolut.md",
     "ElectrotechnicalInformatics/Daily Notes/26.10.09 Just looking at TinkerCAD.md",
-    "ElectrotechnicalInformatics/Daily Notes/26.10.07 No nester.md",
+    "DigitalDesign/Daily Notes/26.10.06 Some stuff about digital logic components and concepts.md",
+    "DigitalDesign/Daily Notes/26.10.05 First day introduction.md",
+    "DataBase/Daily Notes/26.10.12 More Structure of DB.md",
+    "DataBase/Daily Notes/26.10.06 Messed up schedule.md",
+    "DataBase/Definitions.md",
+    "DataBase/Teacher Notes.md",
+    "DataBase/Books.md",
+    "NumericalEngineeringMethod/Calendar.md",
+    "ObjectOrientedPrograming/Teacher Notes.md",
+    "DataBase/Daily Notes/26.10.08 Compensation for Tuesday.md",
+    "ObjectOrientedPrograming/Definitions.md",
+    "NumericalEngineeringMethod/Definitions.md",
+    "NumericalEngineeringMethod/Gabimi Absolut.md",
     "ElectrotechnicalInformatics/PNG_Schemas/DCMotors.png",
     "ElectrotechnicalInformatics/PNG_Schemas/BreadBoardAndButtonCircuit.png",
     "ElectrotechnicalInformatics/PNG_Schemas/TemperatureSensor.png",
     "ElectrotechnicalInformatics/PNG_Schemas/RCCircuit.png",
     "ElectrotechnicalInformatics/PNG_Schemas",
-    "DigitalDesign/Daily Notes/26.10.06 Some stuff about digital logic components and concepts.md",
-    "DigitalDesign/Daily Notes/26.10.05 First day introduction.md",
     "DataBase/Daily Notes/26.10.05 First day introduction.md",
     "SVG Diagrams/Orari.svg",
     "SVG Diagrams/DigitalLogicDiagrams.svg",
     "SVG Diagrams/DataBaseDiagrams.svg",
-    "DigitalDesign/SVG_Schemas/DEMUX.svg",
-    "DigitalDesign/SVG_Schemas/RegistersAndBuffers.svg",
     "DigitalDesign/SVG_Schemas",
-    "DataBase/SVG_Schemas/KeyProperty.svg",
     "DataBase/Slides",
     "DigitalDesign/Teacher Notes.md",
     "README.md",
-    "DataBase/Teacher Notes.md",
     "DataBase/SVG_Schemas",
     "DataBase/SVG Schemas",
     "DataBase/Evaluation.md",
-    "DataBase/Books.md",
     "DigitalDesign/Definitions.md",
-    "NumericalEngineeringMethod/Teacher Notes.md",
-    "ElectrotechnicalInformatics/Definitions.md",
-    "ElectrotechnicalInformatics/Teacher Notes.md",
     "NumericalEngineeringMethod/Daily Notes",
     "NumericalEngineeringMethod",
-    "ObjectOrientedPrograming/Teacher Notes.md",
     "ElectrotechnicalInformatics/Daily Notes",
     "Electrotechnic",
     "ElectrotechnicalInformatics",
