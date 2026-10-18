@@ -4,7 +4,7 @@
   "readableLineLength": false,
   "showLineNumber": true,
   "rightToLeft": false,
-  "vimMode": false,
+  "vimMode": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "Images",
   "alwaysUpdateLinks": true,
